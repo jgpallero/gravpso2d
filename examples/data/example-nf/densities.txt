@@ -1,0 +1,28 @@
+%NEW DENSITY DEFINITION
+%Number of lines, segment ID
+      1       0
+%depth, density contrast
+   0.00  -590.0
+%NEW DENSITY DEFINITION
+%Number of lines, segment ID
+      3       1
+%depth, density contrast
+   0.00  -580.0
+ 100.00  -580.0
+ 150.00  -540.0
+%NEW DENSITY DEFINITION
+%Number of lines, segment ID
+      3       2
+%depth, density contrast
+   0.00  -600.0
+ 110.00  -600.0
+ 150.00  -570.0
+ %NEW DENSITY DEFINITION
+%Number of lines, segment ID
+      4       3
+%depth, density contrast
+   0.00  -600.0
+ 100.00  -600.0
+ 100.01  -570.0
+ 150.00  -520.0
+

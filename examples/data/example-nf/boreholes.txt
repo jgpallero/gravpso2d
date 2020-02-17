@@ -1,0 +1,6 @@
+%BOREHOLES DEFINITION
+%Minumum position, maximum position, minimum depth, maximum depth
+     5500.0              6000.0         370.0        380.0
+     6000.0              6500.0         405.0        415.0
+    15000.0             15500.0         225.0        235.0
+%     7500.0              8000.0         482.0        488.0

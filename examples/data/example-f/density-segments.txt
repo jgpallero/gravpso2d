@@ -1,0 +1,6 @@
+%NEW SEGMENT DEFINITION
+%Segment ID, initial length, final length
+     1              0.0         17500.0
+%NEW SEGMENT DEFINITION
+%Segment ID, initial length, final length
+     2          17500.0         26000.0

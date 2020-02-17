@@ -1,0 +1,4 @@
+%BOREHOLES DEFINITION
+%Minumum position, maximum position, minimum depth, maximum depth
+    10900.0             11100.0         380.0          NaN
+    19900.0             20100.0          85.0         93.0
